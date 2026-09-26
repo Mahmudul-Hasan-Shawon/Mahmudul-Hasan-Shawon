@@ -226,14 +226,14 @@
 
 <p align="center">
   <a href="https://mhshan.pages.dev"><img src="https://img.shields.io/badge/Portfolio-mhshan.pages.dev-C9F24D?style=for-the-badge&logo=googlechrome&logoColor=0A0D06" alt="Portfolio"></a>
-  <a href="mailto:mhshan177@gmail.com"><img src="https://img.shields.io/badge/Email-mhshan177@gmail.com-FF7A45?style=for-the-badge&logo=gmail&logoColor=0A0D06" alt="Email"></a>
-  <a href="https://wa.me/8801874460244"><img src="https://img.shields.io/badge/WhatsApp-101317?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"></a>
 </p>
 
 <p align="center">
-  <a href="https://x.com/mhshan7" title="X"><img src="https://img.shields.io/badge/%20-101317?style=for-the-badge&logo=x&logoColor=ECEAE4" alt="X"></a>
-  <a href="https://instagram.com/mhshan7" title="Instagram"><img src="https://img.shields.io/badge/%20-101317?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram"></a>
-  <a href="https://facebook.com/me.mhshan7" title="Facebook"><img src="https://img.shields.io/badge/%20-101317?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook"></a>
+  <a href="https://facebook.com/me.mhshan7"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://wa.me/8801874460244"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://instagram.com/mhshan7"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:mhshan177@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://x.com/mhshan7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 <p align="center">
