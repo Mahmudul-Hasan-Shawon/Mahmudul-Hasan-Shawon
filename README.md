@@ -153,23 +153,17 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,npm,git,github,cloudflare" alt="Tech stack" height="42">
 </p>
 
-🧩 **Google Workspace** · 📄 Apps Script · 📊 Sheets API · ✉️ Gmail API · 📁 Drive API
-
-⚙️ **Automation** · 🔁 Workflow design · ⏰ Scheduled triggers · 🔌 API integration · 🛡️ Error recovery
-
-🕷️ **Web scraping** · 🤖 Puppeteer · 🧶 Cheerio · 🐢 Rate-limit handling · 🧹 Data cleaning
-
-🎛️ **Browser extensions** · 📜 Manifest V3 · 📥 Content scripts · 🧪 Tampermonkey · 🔌 Chrome APIs
-
-💻 **Web applications** · 🟨 JavaScript / TypeScript · 🟩 Node.js & Express · 🌐 REST APIs · 🗄️ Database design
-
-🛒 **E-commerce** · 🛍️ WooCommerce · 🏪 Shopify · 💳 Payment gateways · 📦 Order pipelines
-
-🔌 **API integration** · 🌐 REST APIs · 🪝 Webhooks · 🔐 OAuth 2.0 · 🤝 Third-party services
-
-🏢 **Business systems** · 🏗️ ERP systems · 📊 Inventory management · ♻️ Workflow optimization · ⚙️ Process automation
-
-🔧 **Tooling** · 🔀 Git · ☁️ Cloudflare
+<p align="center">
+  🧩 <b>Google Workspace</b> · 📄 Apps Script · 📊 Sheets API · ✉️ Gmail API · 📁 Drive API<br>
+  ⚙️ <b>Automation</b> · 🔁 Workflow design · ⏰ Scheduled triggers · 🔌 API integration · 🛡️ Error recovery<br>
+  🕷️ <b>Web scraping</b> · 🤖 Puppeteer · 🧶 Cheerio · 🐢 Rate-limit handling · 🧹 Data cleaning<br>
+  🎛️ <b>Browser extensions</b> · 📜 Manifest V3 · 📥 Content scripts · 🧪 Tampermonkey · 🔌 Chrome APIs<br>
+  💻 <b>Web applications</b> · 🟨 JavaScript / TypeScript · 🟩 Node.js &amp; Express · 🌐 REST APIs · 🗄️ Database design<br>
+  🛒 <b>E-commerce</b> · 🛍️ WooCommerce · 🏪 Shopify · 💳 Payment gateways · 📦 Order pipelines<br>
+  🔌 <b>API integration</b> · 🌐 REST APIs · 🪝 Webhooks · 🔐 OAuth 2.0 · 🤝 Third-party services<br>
+  🏢 <b>Business systems</b> · 🏗️ ERP systems · 📊 Inventory management · ♻️ Workflow optimization · ⚙️ Process automation<br>
+  🔧 <b>Tooling</b> · 🔀 Git · ☁️ Cloudflare
+</p>
 
 ---
 
