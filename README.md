@@ -165,12 +165,12 @@
 ## 📫 Reach me
 
 <p align="center">
-  <a href="https://mhshan.pages.dev"><img src="https://img.shields.io/badge/Portfolio-mhshan.pages.dev-101317?style=for-the-badge&logo=googlechrome&logoColor=C9F24D" alt="Portfolio"></a>
-  <a href="mailto:mhshan177@gmail.com"><img src="https://img.shields.io/badge/Email-mhshan177@gmail.com-101317?style=for-the-badge&logo=gmail&logoColor=C9F24D" alt="Email"></a>
-  <a href="https://wa.me/8801874460244"><img src="https://img.shields.io/badge/WhatsApp-%2B8801874460244-101317?style=for-the-badge&logo=whatsapp&logoColor=C9F24D" alt="WhatsApp"></a>
-  <a href="https://x.com/mhshan7"><img src="https://img.shields.io/badge/X-@mhshan7-101317?style=for-the-badge&logo=x&logoColor=C9F24D" alt="X"></a>
-  <a href="https://instagram.com/mhshan7"><img src="https://img.shields.io/badge/Instagram-@mhshan7-101317?style=for-the-badge&logo=instagram&logoColor=C9F24D" alt="Instagram"></a>
-  <a href="https://facebook.com/me.mhshan7"><img src="https://img.shields.io/badge/Facebook-me.mhshan7-101317?style=for-the-badge&logo=facebook&logoColor=C9F24D" alt="Facebook"></a>
+  <a href="https://mhshan.pages.dev" title="Portfolio"><img src="https://img.shields.io/badge/%20-101317?style=for-the-badge&logo=googlechrome&logoColor=C9F24D" alt="Portfolio" height="30"></a>
+  <a href="mailto:mhshan177@gmail.com" title="Email"><img src="https://img.shields.io/badge/%20-101317?style=for-the-badge&logo=gmail&logoColor=FF7A45" alt="Email" height="30"></a>
+  <a href="https://wa.me/8801874460244" title="WhatsApp"><img src="https://img.shields.io/badge/%20-101317?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" height="30"></a>
+  <a href="https://x.com/mhshan7" title="X"><img src="https://img.shields.io/badge/%20-101317?style=for-the-badge&logo=x&logoColor=ECEAE4" alt="X" height="30"></a>
+  <a href="https://instagram.com/mhshan7" title="Instagram"><img src="https://img.shields.io/badge/%20-101317?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram" height="30"></a>
+  <a href="https://facebook.com/me.mhshan7" title="Facebook"><img src="https://img.shields.io/badge/%20-101317?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" height="30"></a>
 </p>
 
 ---
