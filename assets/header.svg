@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Mahmudul Hasan Shawon, Automation Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1014"/>
+      <stop offset="100%" stop-color="#08090b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C9F24D"/>
+      <stop offset="100%" stop-color="#FF7A45"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1b1f26" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+  <rect x="0" y="0" width="14" height="320" fill="#C9F24D" opacity="0.85"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="72" y="92" font-size="17" letter-spacing="4" fill="#C9F24D">~/automation-engine</text>
+    <text x="72" y="168" font-size="52" font-weight="700" letter-spacing="1" fill="#ECEAE4">MAHMUDUL HASAN SHAWON</text>
+    <text x="72" y="214" font-size="22" letter-spacing="2" fill="#949AA3">Automation Engineer &#183; Apps Script &#183; Web Scraping &#183; Chrome Extensions</text>
+    <text x="72" y="268" font-size="18" letter-spacing="1" fill="#FF7A45">code &#183; automate &#183; scale</text>
+    <text x="1128" y="268" font-size="16" text-anchor="end" fill="#5b616b">dhaka, bd</text>
+  </g>
+</svg>
