@@ -218,18 +218,10 @@
   <img src="https://streak-stats.demolab.com?user=Mahmudul-Hasan-Shawon&hide_border=false&background=101317&border=23282F&stroke=101317&ring=FF7A45&fire=FF7A45&currStreakNum=C9F24D&currStreakLabel=ECEAE4&sideNums=ECEAE4&sideLabels=949AA3&dates=5B616B" alt="GitHub contribution streak: total contributions, current streak and longest streak">
 </p>
 
-<p align="center">
-  <sub>The streak card stays live because the current streak moves every day. It reads GitHub's public contribution graph, so it counts public activity only.</sub>
-</p>
-
 ---
 
 <p align="left">
   <img src="assets/sections/contact.svg" alt="Contact">
-</p>
-
-<p align="center">
-  Tell me what's eating your week. If it's repetitive and rule-based, it can almost certainly be automated.
 </p>
 
 <p align="center">
@@ -238,10 +230,6 @@
   <a href="https://wa.me/8801874460244"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://x.com/mhshan7"><img src="https://img.shields.io/badge/X-23282F?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:mhshan177@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
-<p align="center">
-  <sub>I reply within 24 hours. No spam, ever.</sub>
 </p>
 
 ---
