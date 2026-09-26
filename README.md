@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Mahmudul Hasan Shawon, Automation Engineer" width="100%">
+  <img src="assets/header.svg" alt="Mahmudul Hasan Shawon" width="100%">
 </p>
 
 <p align="center">
@@ -256,8 +256,6 @@
 <p align="center">
   <img src="assets/logo.svg" alt="Shawon" height="52">
   <br><br>
-  <code>code · automate · scale</code>
-  <br>
   <sub>© 2026 Shawon. Dhaka, Bangladesh.</sub>
 </p>
 
