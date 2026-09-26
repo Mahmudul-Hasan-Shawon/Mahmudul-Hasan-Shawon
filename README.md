@@ -209,7 +209,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahmudul-Hasan-Shawon&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=23282F&bg_color=101317&title_color=ECEAE4&text_color=949AA3&icon_color=C9F24D" alt="Mahmudul Hasan Shawon GitHub stats">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mahmudul-Hasan-Shawon&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=23282F&bg_color=101317&title_color=ECEAE4&text_color=949AA3&icon_color=C9F24D" alt="Mahmudul Hasan Shawon GitHub stats">
 </p>
 
 <p align="center">
@@ -256,9 +256,12 @@
   - Third-party image services used:
     shields.io            badges (status chips, proof numbers, stack chips, socials)
     skillicons.dev        tech stack icons
-    github-readme-stats-eight-theta.vercel.app  stats card
+    github-readme-stats-fast.vercel.app           stats card
       (community mirror of github-readme-stats; the official shared instance
-       returns 503 under rate limiting, and swapping back is a hostname change)
+       returns 503 under rate limiting, and swapping back is a hostname change.
+       The eight-theta mirror was replaced because it ignored border_color and
+       always drew the default #E4E2E2 edge, so the card clashed with the
+       streak card, and it was serving a stale commit count)
     streak-stats.demolab.com                    contribution streak
   - The activity graph was dropped: its public instance
     (github-readme-activity-graph.vercel.app) is suspended (HTTP 402) and no
