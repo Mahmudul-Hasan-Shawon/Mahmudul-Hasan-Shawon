@@ -10,8 +10,8 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/112-projects%20delivered-C9F24D?style=for-the-badge" alt="112 projects delivered">
-  <img src="https://img.shields.io/badge/25K%2B-hours%20automated-FF7A45?style=for-the-badge" alt="25K+ hours automated">
+  <img src="https://img.shields.io/badge/112%2B-projects%20delivered-C9F24D?style=for-the-badge" alt="112+ projects delivered">
+  <img src="https://img.shields.io/badge/250K%2B-hours%20automated-FF7A45?style=for-the-badge" alt="250K+ hours automated">
   <img src="https://img.shields.io/badge/98%25-client%20satisfaction-C9F24D?style=for-the-badge" alt="98% client satisfaction">
 </p>
 
