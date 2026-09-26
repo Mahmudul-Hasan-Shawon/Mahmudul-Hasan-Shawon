@@ -10,16 +10,15 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/500%2B-projects%20delivered-C9F24D?style=for-the-badge" alt="500+ projects delivered">
-  <img src="https://img.shields.io/badge/300k%2B-hours%20automated-FF7A45?style=for-the-badge" alt="300k+ hours automated">
+  <img src="https://img.shields.io/badge/112-projects%20delivered-C9F24D?style=for-the-badge" alt="112 projects delivered">
+  <img src="https://img.shields.io/badge/25K%2B-hours%20automated-FF7A45?style=for-the-badge" alt="25K+ hours automated">
   <img src="https://img.shields.io/badge/98%25-client%20satisfaction-C9F24D?style=for-the-badge" alt="98% client satisfaction">
-  <img src="https://img.shields.io/badge/%3C2h-typical%20first%20reply-FF7A45?style=for-the-badge" alt="Typical first reply under 2 hours">
 </p>
 
 ---
 
 <p align="left">
-  <img src="assets/sections/services.svg" alt="~/services">
+  <img src="assets/sections/services.svg" alt="Services">
 </p>
 
 <table>
@@ -74,7 +73,7 @@
 ---
 
 <p align="left">
-  <img src="assets/sections/whoami.svg" alt="~/whoami">
+  <img src="assets/sections/whoami.svg" alt="Whoami">
 </p>
 
 <table>
@@ -93,7 +92,7 @@
 ---
 
 <p align="left">
-  <img src="assets/sections/selected-work.svg" alt="~/selected-work">
+  <img src="assets/sections/selected-work.svg" alt="Selected Work">
 </p>
 
 <table>
@@ -148,7 +147,7 @@
 ---
 
 <p align="left">
-  <img src="assets/sections/stack.svg" alt="~/stack">
+  <img src="assets/sections/stack.svg" alt="Stack">
 </p>
 
 <p align="center">
@@ -176,7 +175,7 @@
 ---
 
 <p align="left">
-  <img src="assets/sections/how-we-start.svg" alt="~/how-we-start">
+  <img src="assets/sections/how-we-start.svg" alt="How We Start">
 </p>
 
 <table>
@@ -205,7 +204,7 @@
 ---
 
 <p align="left">
-  <img src="assets/sections/github-stats.svg" alt="~/github-stats">
+  <img src="assets/sections/github-stats.svg" alt="Github Stats">
 </p>
 
 <p align="center">
@@ -223,7 +222,7 @@
 ---
 
 <p align="left">
-  <img src="assets/sections/contact.svg" alt="~/contact">
+  <img src="assets/sections/contact.svg" alt="Contact">
 </p>
 
 <p align="center">
@@ -239,7 +238,7 @@
 </p>
 
 <p align="center">
-  <sub>Typical first reply under 2 hours. I reply within 24 hours. No spam, ever.</sub>
+  <sub>I reply within 24 hours. No spam, ever.</sub>
 </p>
 
 ---
@@ -285,10 +284,10 @@
     assets/logo.svg is pure outlines, so it has no font dependency.
   - The seven section titles are SVG chips rather than markdown headings, for
     the same reason: DM Sans cannot reach an <h2>. Each one carries its own
-    subset of DM Sans (500 for the ~/ prefix, 700 for the name), so the files
-    stay around 6.4KB each. The chip carries its own dark fill and border
+    subset of DM Sans Bold, so the files
+    stay around 3.5KB each. The chip carries its own dark fill and border
     rather than relying on inherited colour, because a fixed light text colour
     would vanish on GitHub's light theme. Trade-off: the titles are images, so
     they are no longer selectable text and screen readers only get the alt
-    text, which is why each alt is the section path itself.
+    text, which is why each alt spells out the section name.
 -->
