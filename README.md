@@ -208,18 +208,13 @@
   <sub>These cards read public GitHub data only. Most client work ships in private repos, so the numbers here run low. The proof is the work above.</sub>
 </p>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahmudul-Hasan-Shawon&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=23282F&bg_color=101317&title_color=ECEAE4&text_color=949AA3&icon_color=C9F24D" alt="Mahmudul Hasan Shawon GitHub stats">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Mahmudul-Hasan-Shawon&hide_border=false&background=101317&border=23282F&stroke=101317&ring=FF7A45&fire=FF7A45&currStreakNum=C9F24D&currStreakLabel=ECEAE4&sideNums=ECEAE4&sideLabels=949AA3&dates=5B616B" alt="GitHub streak stats">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahmudul-Hasan-Shawon&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=23282F&bg_color=101317&title_color=ECEAE4&text_color=949AA3&icon_color=C9F24D" alt="Mahmudul Hasan Shawon GitHub stats">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mahmudul-Hasan-Shawon&hide_border=false&background=101317&border=23282F&stroke=101317&ring=FF7A45&fire=FF7A45&currStreakNum=C9F24D&currStreakLabel=ECEAE4&sideNums=ECEAE4&sideLabels=949AA3&dates=5B616B" alt="GitHub streak stats">
+</p>
 
 ---
 
