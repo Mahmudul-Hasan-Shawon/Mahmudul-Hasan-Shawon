@@ -216,15 +216,12 @@
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td align="center">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mahmudul-Hasan-Shawon&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=23282F&bg_color=101317&title_color=ECEAE4&text_color=949AA3&icon_color=C9F24D" alt="Mahmudul Hasan Shawon GitHub stats">
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mahmudul-Hasan-Shawon&layout=compact&langs_count=8&hide_border=false&border_color=23282F&bg_color=101317&title_color=ECEAE4&text_color=949AA3" alt="Top languages">
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center">
       <img src="https://streak-stats.demolab.com?user=Mahmudul-Hasan-Shawon&hide_border=false&background=101317&border=23282F&stroke=101317&ring=FF7A45&fire=FF7A45&currStreakNum=C9F24D&currStreakLabel=ECEAE4&sideNums=ECEAE4&sideLabels=949AA3&dates=5B616B" alt="GitHub streak stats">
     </td>
   </tr>
@@ -272,7 +269,7 @@
   - Third-party image services used:
     shields.io            badges (status chips, proof numbers, stack chips, socials)
     skillicons.dev        tech stack icons
-    github-readme-stats-eight-theta.vercel.app  stats + top languages
+    github-readme-stats-eight-theta.vercel.app  stats card
       (community mirror of github-readme-stats; the official shared instance
        returns 503 under rate limiting, and swapping back is a hostname change)
     streak-stats.demolab.com                    contribution streak
