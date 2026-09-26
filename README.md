@@ -18,7 +18,9 @@
 
 ---
 
-## `~/services`
+<p align="left">
+  <img src="assets/sections/services.svg" alt="~/services">
+</p>
 
 <table>
   <tr>
@@ -71,7 +73,9 @@
 
 ---
 
-## `~/whoami`
+<p align="left">
+  <img src="assets/sections/whoami.svg" alt="~/whoami">
+</p>
 
 <table>
   <tr>
@@ -88,7 +92,9 @@
 
 ---
 
-## `~/selected-work`
+<p align="left">
+  <img src="assets/sections/selected-work.svg" alt="~/selected-work">
+</p>
 
 <table>
   <tr>
@@ -141,7 +147,9 @@
 
 ---
 
-## `~/stack`
+<p align="left">
+  <img src="assets/sections/stack.svg" alt="~/stack">
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,npm,git,github,cloudflare" alt="Tech stack" height="42">
@@ -167,7 +175,9 @@
 
 ---
 
-## `~/how-we-start`
+<p align="left">
+  <img src="assets/sections/how-we-start.svg" alt="~/how-we-start">
+</p>
 
 <table>
   <tr>
@@ -194,7 +204,9 @@
 
 ---
 
-## `~/github-stats`
+<p align="left">
+  <img src="assets/sections/github-stats.svg" alt="~/github-stats">
+</p>
 
 <p align="center">
   <sub>These cards read public GitHub data only. Most client work ships in private repos, so the numbers here run low. The proof is the work above.</sub>
@@ -210,7 +222,9 @@
 
 ---
 
-## `~/contact`
+<p align="left">
+  <img src="assets/sections/contact.svg" alt="~/contact">
+</p>
 
 <p align="center">
   Tell me what's eating your week. If it's repetitive and rule-based, it can almost certainly be automated.
@@ -269,4 +283,12 @@
     wordmark and Plus Jakarta Sans SemiBold (kept for label text) as base64
     woff2 subsets. Both are SIL Open Font License 1.1, which permits embedding.
     assets/logo.svg is pure outlines, so it has no font dependency.
+  - The seven section titles are SVG chips rather than markdown headings, for
+    the same reason: DM Sans cannot reach an <h2>. Each one carries its own
+    subset of DM Sans (500 for the ~/ prefix, 700 for the name), so the files
+    stay around 6.4KB each. The chip carries its own dark fill and border
+    rather than relying on inherited colour, because a fixed light text colour
+    would vanish on GitHub's light theme. Trade-off: the titles are images, so
+    they are no longer selectable text and screen readers only get the alt
+    text, which is why each alt is the section path itself.
 -->

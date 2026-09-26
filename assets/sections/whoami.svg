@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 138.26 40" width="138.26" height="40" role="img" aria-label="whoami">
+  <style>
+    @font-face {
+      font-family: 'DM Sans';
+      src: url(data:font/woff2;base64,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) format('woff2');
+      font-weight: 500;
+      font-style: normal;
+      font-display: swap;
+    }
+    @font-face {
+      font-family: 'DM Sans';
+      src: url(data:font/woff2;base64,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) format('woff2');
+      font-weight: 700;
+      font-style: normal;
+      font-display: swap;
+    }
+  </style>
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#C9F24D"/>
+      <stop offset="100%" stop-color="#FF7A45"/>
+    </linearGradient>
+    <clipPath id="chip">
+      <rect x="0.5" y="0.5" width="137.26" height="39" rx="7"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="137.26" height="39" rx="7" fill="#101317" stroke="#23282F"/>
+  <g clip-path="url(#chip)">
+    <rect x="0" y="0" width="4" height="40" fill="url(#bar)"/>
+  </g>
+
+  <text x="20" y="25.6" font-family="'DM Sans', sans-serif" font-size="16" font-weight="500" fill="#5B616B">~/</text>
+  <text x="43.42" y="25.6" font-family="'DM Sans', sans-serif" font-size="16" font-weight="700" letter-spacing="1.6" fill="#ECEAE4">WHOAMI</text>
+</svg>
