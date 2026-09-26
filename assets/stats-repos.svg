@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Commits per repository: mavenmg 172, Project Development Tracker 50, Saffron Glow Corner 45, Shalik Glow Corner 43, Tasks Map 40, Poetry 35">
+  <rect x="0.5" y="0.5" width="494" height="194" rx="10" fill="#101317" stroke="#23282F"/>
+  <text x="28" y="36" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#ECEAE4">Where the commits live</text>
+
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">
+    <!-- mavenmg: 172 -->
+    <text x="24" y="58" fill="#949AA3">mavenmg</text>
+    <rect x="192" y="48" width="246" height="11" rx="3" fill="#1a1f26"/>
+    <rect x="192" y="48" width="246" height="11" rx="3" fill="#C9F24D"/>
+    <text x="446" y="58" font-weight="700" fill="#ECEAE4">172</text>
+    <!-- Project Development Tracker: 50 -->
+    <text x="24" y="80" fill="#949AA3">Project Development Tracker</text>
+    <rect x="192" y="70" width="246" height="11" rx="3" fill="#1a1f26"/>
+    <rect x="192" y="70" width="71.5" height="11" rx="3" fill="#D4DA4B"/>
+    <text x="271.5" y="80" font-weight="700" fill="#ECEAE4">50</text>
+    <!-- Saffron Glow Corner: 45 -->
+    <text x="24" y="102" fill="#949AA3">Saffron Glow Corner</text>
+    <rect x="192" y="92" width="246" height="11" rx="3" fill="#1a1f26"/>
+    <rect x="192" y="92" width="64.4" height="11" rx="3" fill="#DFC24A"/>
+    <text x="264.4" y="102" font-weight="700" fill="#ECEAE4">45</text>
+    <!-- Shalik Glow Corner: 43 -->
+    <text x="24" y="124" fill="#949AA3">Shalik Glow Corner</text>
+    <rect x="192" y="114" width="246" height="11" rx="3" fill="#1a1f26"/>
+    <rect x="192" y="114" width="61.5" height="11" rx="3" fill="#E9AA48"/>
+    <text x="261.5" y="124" font-weight="700" fill="#ECEAE4">43</text>
+    <!-- Tasks Map: 40 -->
+    <text x="24" y="146" fill="#949AA3">Tasks Map</text>
+    <rect x="192" y="136" width="246" height="11" rx="3" fill="#1a1f26"/>
+    <rect x="192" y="136" width="57.2" height="11" rx="3" fill="#F49247"/>
+    <text x="257.2" y="146" font-weight="700" fill="#ECEAE4">40</text>
+    <!-- Poetry: 35 -->
+    <text x="24" y="168" fill="#949AA3">Poetry</text>
+    <rect x="192" y="158" width="246" height="11" rx="3" fill="#1a1f26"/>
+    <rect x="192" y="158" width="50.1" height="11" rx="3" fill="#FF7A45"/>
+    <text x="250.1" y="168" font-weight="700" fill="#ECEAE4">35</text>
+  </g>
+
+  <text x="28" y="184" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" fill="#5b616b">commits per repo &#183; local git audit, Sep 2026</text>
+</svg>

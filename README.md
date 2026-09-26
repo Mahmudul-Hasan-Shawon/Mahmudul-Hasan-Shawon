@@ -207,15 +207,15 @@
 </p>
 
 <p align="center">
-  <sub>These cards read public GitHub data only. Most client work ships in private repos, so the numbers here run low. The proof is the work above.</sub>
+  <sub>The public API sees 3 repos, and only one of them is real work, so the live cards read 47 commits. These two cards come from a local git audit across all 18 repos instead.</sub>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mahmudul-Hasan-Shawon&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&card_width=495&border_color=23282F&bg_color=101317&title_color=ECEAE4&text_color=949AA3&icon_color=C9F24D" alt="Mahmudul Hasan Shawon GitHub stats">
+  <img src="assets/stats-overview.svg" alt="GitHub stats: 528 commits across 18 repositories, 1 public and 17 private, largest repo mavenmg with 172 commits, on GitHub since March 2018" width="495">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahmudul-Hasan-Shawon&hide_border=false&background=101317&border=23282F&stroke=101317&ring=FF7A45&fire=FF7A45&currStreakNum=C9F24D&currStreakLabel=ECEAE4&sideNums=ECEAE4&sideLabels=949AA3&dates=5B616B" alt="GitHub streak stats">
+  <img src="assets/stats-repos.svg" alt="Commits per repository: mavenmg 172, Project Development Tracker 50, Saffron Glow Corner 45, Shalik Glow Corner 43, Tasks Map 40, Poetry 35" width="495">
 </p>
 
 ---
@@ -256,14 +256,17 @@
   - Third-party image services used:
     shields.io            badges (status chips, proof numbers, stack chips, socials)
     skillicons.dev        tech stack icons
-    github-readme-stats-fast.vercel.app           stats card
-      (community mirror of github-readme-stats; the official shared instance
-       returns 503 under rate limiting, and swapping back is a hostname change.
-       The eight-theta mirror was replaced because it ignored border_color and
-       always drew the default #E4E2E2 edge, so the card clashed with the
-       streak card, and it was serving a stale commit count. card_width=495
-       pins it to the streak card's 495x195 so the two stack at one width)
-    streak-stats.demolab.com                    contribution streak
+  - The two stat cards (assets/stats-overview.svg, assets/stats-repos.svg)
+    are hand-built static SVGs, not live services. github-readme-stats and
+    streak-stats were dropped because the public API sees only 3 repos
+    (this profile README plus two 2021 forks, coffinRDP and WindowsRDP) and
+    reported 47 commits, 26 contributions and a 1-day streak, while a local
+    git audit on 2026-09-26 counted 528 commits across 18 repos, private
+    included (mavenmg 172, Project Development Tracker 50, Saffron Glow
+    Corner 45, Shalik Glow Corner 43, Tasks Map 40, Poetry 35, and this
+    profile repo 24). Of those 18, only this one is public. The audit skipped
+    E:\2026 Project\Test\mavenmg, a stale duplicate clone 5 commits behind.
+    Regenerate the two SVGs if those numbers change.
   - The activity graph was dropped: its public instance
     (github-readme-activity-graph.vercel.app) is suspended (HTTP 402) and no
     mirror was live, and the chart showed almost no public data anyway.
