@@ -207,15 +207,19 @@
 </p>
 
 <p align="center">
-  <sub>The public API sees 3 repos, and only one of them is real work, so the live cards read 47 commits. These cards show the account as it is: 86 repos total, with commit counts from a local git audit.</sub>
-</p>
-
-<p align="center">
   <img src="assets/stats-overview.svg" alt="GitHub stats: 528 commits, 86 total repositories, largest repo mavenmg with 172 commits, on GitHub since March 2018" width="495">
 </p>
 
 <p align="center">
   <img src="assets/stats-repos.svg" alt="Top 6 of 86 repositories by commits: mavenmg 172, Project Development Tracker 50, Saffron Glow Corner 45, Shalik Glow Corner 43, Tasks Map 40, Poetry 35" width="495">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mahmudul-Hasan-Shawon&hide_border=false&background=101317&border=23282F&stroke=101317&ring=FF7A45&fire=FF7A45&currStreakNum=C9F24D&currStreakLabel=ECEAE4&sideNums=ECEAE4&sideLabels=949AA3&dates=5B616B" alt="GitHub contribution streak: total contributions, current streak and longest streak">
+</p>
+
+<p align="center">
+  <sub>The streak card stays live because the current streak moves every day. It reads GitHub's public contribution graph, so it counts public activity only.</sub>
 </p>
 
 ---
@@ -257,8 +261,8 @@
     shields.io            badges (status chips, proof numbers, stack chips, socials)
     skillicons.dev        tech stack icons
   - The two stat cards (assets/stats-overview.svg, assets/stats-repos.svg)
-    are hand-built static SVGs, not live services. github-readme-stats and
-    streak-stats were dropped because the public API sees only 3 repos
+    are hand-built static SVGs, not live services. github-readme-stats was
+    dropped because the public API sees only 3 repos
     (this profile README plus two 2021 forks, coffinRDP and WindowsRDP) and
     reported 47 commits, 26 contributions and a 1-day streak, while a local
     git audit on 2026-09-26 counted 528 commits across 18 repos, private
@@ -267,6 +271,9 @@
     profile repo 24). Of those 18, only this one is public. The audit skipped
     E:\2026 Project\Test\mavenmg, a stale duplicate clone 5 commits behind.
     Regenerate the two SVGs if those numbers change.
+    streak-stats.demolab.com is kept as a live card: the current streak
+    changes daily, which a static SVG cannot track, and its contribution
+    numbers come straight from GitHub's public contribution graph.
   - The activity graph was dropped: its public instance
     (github-readme-activity-graph.vercel.app) is suspended (HTTP 402) and no
     mirror was live, and the chart showed almost no public data anyway.
