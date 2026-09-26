@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Commits per repository: mavenmg 172, Project Development Tracker 50, Saffron Glow Corner 45, Shalik Glow Corner 43, Tasks Map 40, Poetry 35">
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Top 6 of 86 repositories by commits: mavenmg 172, Project Development Tracker 50, Saffron Glow Corner 45, Shalik Glow Corner 43, Tasks Map 40, Poetry 35">
   <rect x="0.5" y="0.5" width="494" height="194" rx="10" fill="#101317" stroke="#23282F"/>
-  <text x="28" y="36" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#ECEAE4">Where the commits live</text>
+  <text x="28" y="36" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#ECEAE4">Where the commits live<tspan fill="#949AA3" font-size="12" font-weight="400">   &#183; top 6 of 86 repos</tspan></text>
 
   <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">
     <!-- mavenmg: 172 -->

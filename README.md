@@ -207,15 +207,15 @@
 </p>
 
 <p align="center">
-  <sub>The public API sees 3 repos, and only one of them is real work, so the live cards read 47 commits. These two cards come from a local git audit across all 18 repos instead.</sub>
+  <sub>The public API sees 3 repos, and only one of them is real work, so the live cards read 47 commits. These cards show the account as it is: 86 repos total, with commit counts from a local git audit.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/stats-overview.svg" alt="GitHub stats: 528 commits across 18 repositories, 1 public and 17 private, largest repo mavenmg with 172 commits, on GitHub since March 2018" width="495">
+  <img src="assets/stats-overview.svg" alt="GitHub stats: 528 commits, 86 total repositories, largest repo mavenmg with 172 commits, on GitHub since March 2018" width="495">
 </p>
 
 <p align="center">
-  <img src="assets/stats-repos.svg" alt="Commits per repository: mavenmg 172, Project Development Tracker 50, Saffron Glow Corner 45, Shalik Glow Corner 43, Tasks Map 40, Poetry 35" width="495">
+  <img src="assets/stats-repos.svg" alt="Top 6 of 86 repositories by commits: mavenmg 172, Project Development Tracker 50, Saffron Glow Corner 45, Shalik Glow Corner 43, Tasks Map 40, Poetry 35" width="495">
 </p>
 
 ---
