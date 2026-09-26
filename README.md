@@ -80,7 +80,7 @@
   <tr>
     <td width="68%" valign="top">
       <p>I build the unglamorous machinery businesses run on: sync jobs, report generators, scrapers, dashboards and internal tools. Most of it lives inside Google Workspace: Apps Script back-ends, Sheets as a database, Gmail parsing, Drive pipelines and web apps served straight from a spreadsheet.</p>
-      <p>Alongside client work I run <b>Saffron Glow Corner</b>, a retail business where I built my own storefront, invoicing and inventory. Being the client as well as the developer is why I ship things that are quick to run on a Tuesday morning, not just clever to write. Since 2024 I have also supported a US marketing group (Maven Marketing Group) on compliance-adjacent tooling.</p>
+      <p>Alongside client work I run <a href="https://petalsrose.pages.dev/"><b>Petal &amp; Rose</b></a>, a retail business where I built my own storefront, invoicing and inventory. Being the client as well as the developer is why I ship things that are quick to run on a Tuesday morning, not just clever to write. Since 2024 I have also supported a US marketing group (Maven Marketing Group) on compliance-adjacent tooling.</p>
     </td>
     <td width="32%" align="center" valign="top">
       <img src="assets/shan.png" alt="Mahmudul Hasan Shawon" width="100%">
@@ -124,9 +124,9 @@
     </td>
     <td valign="top">
       <b>K-beauty storefront and invoicing suite</b><br>
-      <sub>Saffron Glow Corner · 2026 · 4 weeks</sub><br><br>
+      <sub>Petal &amp; Rose · 2026 · 4 weeks</sub><br><br>
       A complete retail platform for a Korean skincare shop with live catalogue, cart, checkout, payment integration, order tracking and automated PDF invoicing.<br><br>
-      <a href="https://glowsaffron.pages.dev/"><b>live site →</b></a><br><br>
+      <a href="https://petalsrose.pages.dev/"><b>live site →</b></a><br><br>
       <code>Apps Script</code> <code>JavaScript</code> <code>Sheets API</code> <code>jsPDF</code>
     </td>
     <td valign="top">
