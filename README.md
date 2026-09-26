@@ -161,17 +161,23 @@
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,git,github,google,chrome,cloudflare" alt="Tech stack" height="42">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Apps%20Script-101317?style=flat-square" alt="Apps Script">
-  <img src="https://img.shields.io/badge/Sheets%20API-101317?style=flat-square" alt="Sheets API">
-  <img src="https://img.shields.io/badge/Gmail%20%2F%20Drive%20API-101317?style=flat-square" alt="Gmail and Drive API">
-  <img src="https://img.shields.io/badge/Puppeteer-101317?style=flat-square" alt="Puppeteer">
-  <img src="https://img.shields.io/badge/Manifest%20V3-101317?style=flat-square" alt="Manifest V3">
-  <img src="https://img.shields.io/badge/Tampermonkey-101317?style=flat-square" alt="Tampermonkey">
-  <img src="https://img.shields.io/badge/REST%20%2F%20Webhooks-101317?style=flat-square" alt="REST and Webhooks">
-  <img src="https://img.shields.io/badge/WooCommerce%20%2F%20Shopify-101317?style=flat-square" alt="WooCommerce and Shopify">
-  <img src="https://img.shields.io/badge/ERP%20%2F%20Inventory-101317?style=flat-square" alt="ERP and Inventory">
-</p>
+🧩 **Google Workspace** · 📄 Apps Script · 📊 Sheets API · ✉️ Gmail API · 📁 Drive API
+
+⚙️ **Automation** · 🔁 Workflow design · ⏰ Scheduled triggers · 🔌 API integration · 🛡️ Error recovery
+
+🕷️ **Web scraping** · 🤖 Puppeteer · 🧶 Cheerio · 🐢 Rate-limit handling · 🧹 Data cleaning
+
+🎛️ **Browser extensions** · 📜 Manifest V3 · 📥 Content scripts · 🧪 Tampermonkey · 🔌 Chrome APIs
+
+💻 **Web applications** · 🟨 JavaScript / TypeScript · 🟩 Node.js & Express · 🌐 REST APIs · 🗄️ Database design
+
+🛒 **E-commerce** · 🛍️ WooCommerce · 🏪 Shopify · 💳 Payment gateways · 📦 Order pipelines
+
+🔌 **API integration** · 🌐 REST APIs · 🪝 Webhooks · 🔐 OAuth 2.0 · 🤝 Third-party services
+
+🏢 **Business systems** · 🏗️ ERP systems · 📊 Inventory management · ♻️ Workflow optimization · ⚙️ Process automation
+
+🔧 **Tooling** · 🔀 Git · ☁️ Cloudflare
 
 ---
 
@@ -263,6 +269,13 @@
   - The activity graph was dropped: its public instance
     (github-readme-activity-graph.vercel.app) is suspended (HTTP 402) and no
     mirror was live, and the chart showed almost no public data anyway.
+  - The stack list is markdown text with emoji rather than shields badges
+    because shields renders labels in Verdana/DejaVu Sans, which has no color
+    emoji glyph: an emoji inside a badge comes out as a tofu box. Emoji in
+    markdown text renders in full color. The list is grouped by the eight
+    skill categories in the portfolio content source, with the tooling row
+    carrying the two entries that fall outside those categories (Git,
+    Cloudflare).
   - The GitHub stat cards read public repo data only, so they show low numbers.
     The caption above them says so plainly instead of hiding it.
   - Typography: GitHub strips CSS from README markdown, so custom webfonts can
