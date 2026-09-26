@@ -248,7 +248,7 @@
 
 <p align="center">
   <img src="assets/logo.svg" alt="Shawon" height="52">
-  <br><br>
+  <br>
   <sub>© 2026 Shawon. Dhaka, Bangladesh.</sub>
 </p>
 
