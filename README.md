@@ -7,25 +7,13 @@
   No bloated SaaS, just clean logic and workflows that scale.
 </p>
 
-<p align="center">
-  <a href="https://mhshan.pages.dev"><img src="https://img.shields.io/badge/Portfolio-mhshan.pages.dev-C9F24D?style=for-the-badge&logo=googlechrome&logoColor=0A0D06" alt="Portfolio"></a>
-  <a href="mailto:mhshan177@gmail.com"><img src="https://img.shields.io/badge/Email-mhshan177@gmail.com-FF7A45?style=for-the-badge&logo=gmail&logoColor=0A0D06" alt="Email"></a>
-  <a href="https://wa.me/8801874460244"><img src="https://img.shields.io/badge/WhatsApp-101317?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"></a>
-</p>
-
 ---
-
-## `~/proof`
 
 <p align="center">
   <img src="https://img.shields.io/badge/500%2B-projects%20delivered-C9F24D?style=for-the-badge" alt="500+ projects delivered">
   <img src="https://img.shields.io/badge/300k%2B-hours%20automated-FF7A45?style=for-the-badge" alt="300k+ hours automated">
   <img src="https://img.shields.io/badge/98%25-client%20satisfaction-C9F24D?style=for-the-badge" alt="98% client satisfaction">
   <img src="https://img.shields.io/badge/%3C2h-typical%20first%20reply-FF7A45?style=for-the-badge" alt="Typical first reply under 2 hours">
-</p>
-
-<p align="center">
-  <sub>6+ years · 98% across 380+ reviews · 1.2k hours saved monthly</sub>
 </p>
 
 ---
@@ -91,11 +79,9 @@
       <p>Six years ago I wrote a script to stop retyping the same twenty rows every Monday. I have been doing versions of that ever since.</p>
       <p>I build the unglamorous machinery businesses run on: sync jobs, report generators, scrapers, dashboards and internal tools. Most of it lives inside Google Workspace: Apps Script back-ends, Sheets as a database, Gmail parsing, Drive pipelines and web apps served straight from a spreadsheet.</p>
       <p>Alongside client work I run <b>Saffron Glow Corner</b>, a retail business where I built my own storefront, invoicing and inventory. Being the client as well as the developer is why I ship things that are quick to run on a Tuesday morning, not just clever to write. Since 2024 I have also supported a US marketing group (Maven Marketing Group) on compliance-adjacent tooling.</p>
-      <p><i>"The best automation is the one nobody remembers is running."</i></p>
     </td>
     <td width="32%" align="center" valign="top">
       <img src="assets/shan.png" alt="Mahmudul Hasan Shawon" width="100%">
-      <p><sub><b>Mahmudul Hasan Shawon</b><br>Dhaka, Bangladesh</sub></p>
     </td>
   </tr>
 </table>
@@ -158,7 +144,7 @@
 ## `~/stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,git,github,google,chrome,cloudflare" alt="Tech stack" height="42">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,npm,git,github,cloudflare" alt="Tech stack" height="42">
 </p>
 
 🧩 **Google Workspace** · 📄 Apps Script · 📊 Sheets API · ✉️ Gmail API · 📁 Drive API
