@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/available%20for%20work-C9F24D?style=flat-square" alt="Available for work">
-  <img src="https://img.shields.io/badge/first%20reply-%3C2h-FF7A45?style=flat-square" alt="Typical first reply under 2 hours">
-  <img src="https://img.shields.io/badge/Dhaka%2C%20BD-UTC%2B6-23282F?style=flat-square" alt="Dhaka, Bangladesh, UTC+6">
-</p>
-
-<p align="center">
   I build custom automation that removes 10-20 hours of manual work a week.<br>
   No bloated SaaS, just clean logic and workflows that scale.
 </p>
@@ -101,7 +95,7 @@
     </td>
     <td width="32%" align="center" valign="top">
       <img src="assets/shan.png" alt="Mahmudul Hasan Shawon" width="100%">
-      <p><sub><b>Mahmudul Hasan Shawon</b><br>Automation Engineer<br>Dhaka, Bangladesh</sub></p>
+      <p><sub><b>Mahmudul Hasan Shawon</b><br>Dhaka, Bangladesh</sub></p>
     </td>
   </tr>
 </table>
@@ -276,4 +270,9 @@
     mirror was live, and the chart showed almost no public data anyway.
   - The GitHub stat cards read public repo data only, so they show low numbers.
     The caption above them says so plainly instead of hiding it.
+  - Typography: GitHub strips CSS from README markdown, so custom webfonts can
+    only live inside SVG assets. assets/header.svg embeds DM Sans Bold for the
+    wordmark and Plus Jakarta Sans SemiBold (kept for label text) as base64
+    woff2 subsets. Both are SIL Open Font License 1.1, which permits embedding.
+    assets/logo.svg is pure outlines, so it has no font dependency.
 -->
