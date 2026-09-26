@@ -225,11 +225,19 @@
 </p>
 
 <p align="center">
+  Tell me what's eating your week. If it's repetitive and rule-based, it can almost certainly be automated.
+</p>
+
+<p align="center">
   <a href="https://mhshan.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-C9F24D?style=for-the-badge&logo=googlechrome&logoColor=0A0D06" alt="Portfolio"></a>
   <a href="https://facebook.com/me.mhshan7"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://wa.me/8801874460244"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://x.com/mhshan7"><img src="https://img.shields.io/badge/X-23282F?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:mhshan177@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+<p align="center">
+  <sub>I reply within 24 hours. No spam, ever.</sub>
 </p>
 
 ---
